@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
  }
- ul{
-    list-style-type: none;
-    margin: 50px;
- }
+.container{
+   list-style: none;
+   margin: 20px;
+}
